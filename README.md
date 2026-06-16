@@ -1,3 +1,54 @@
+# TodoList Application 📝
+
+A clean, responsive, and efficient Todo List application built with React. This project helps users manage their daily tasks with ease, featuring state management and a modern user interface.
+
+## 🚀 Features
+- **Task Management:** Add new tasks seamlessly.
+- **Task Deletion:** Remove completed or unnecessary tasks with a single click.
+- **Completion Tracking:** Visually distinguish between pending and completed tasks.
+- **Data Persistence:** Automatically saves your tasks so your data remains intact across sessions.
+
+## 🛠 Tech Stack
+- **React.js:** Building the user interface.
+- **Context API:** Efficiently managing global state across components.
+- **CSS3:** Custom styling for a modern and responsive look.
+- **Git:** Version control and collaboration.
+
+## 📂 Project Structure
+```text
+src/
+├── components/       # Reusable UI components (Todo, TodoList)
+├── contexts/         # State management using React Context API
+├── App.js            # Main application component
+└── index.js          # Entry point
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
